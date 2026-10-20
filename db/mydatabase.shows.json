@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718de1"
+  },
+  "show_id": 13,
+  "movie_id": 6,
+  "theater_id": 3,
+  "show_time": {
+    "$date": "2025-11-17T22:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718de2"
+  },
+  "show_id": 12,
+  "movie_id": 6,
+  "theater_id": 1,
+  "show_time": {
+    "$date": "2025-11-17T19:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718de3"
+  },
+  "show_id": 15,
+  "movie_id": 7,
+  "theater_id": 3,
+  "show_time": {
+    "$date": "2025-11-07T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718de4"
+  },
+  "show_id": 14,
+  "movie_id": 7,
+  "theater_id": 2,
+  "show_time": {
+    "$date": "2025-11-07T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718de5"
+  },
+  "show_id": 11,
+  "movie_id": 5,
+  "theater_id": 3,
+  "show_time": {
+    "$date": "2025-10-23T21:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718de6"
+  },
+  "show_id": 10,
+  "movie_id": 5,
+  "theater_id": 2,
+  "show_time": {
+    "$date": "2025-10-23T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718de7"
+  },
+  "show_id": 9,
+  "movie_id": 4,
+  "theater_id": 3,
+  "show_time": {
+    "$date": "2025-09-19T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718de8"
+  },
+  "show_id": 8,
+  "movie_id": 4,
+  "theater_id": 1,
+  "show_time": {
+    "$date": "2025-09-19T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718de9"
+  },
+  "show_id": 17,
+  "movie_id": 8,
+  "theater_id": 2,
+  "show_time": {
+    "$date": "2025-08-29T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718dea"
+  },
+  "show_id": 16,
+  "movie_id": 8,
+  "theater_id": 1,
+  "show_time": {
+    "$date": "2025-08-29T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718deb"
+  },
+  "show_id": 7,
+  "movie_id": 3,
+  "theater_id": 3,
+  "show_time": {
+    "$date": "2025-08-21T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718dec"
+  },
+  "show_id": 6,
+  "movie_id": 3,
+  "theater_id": 2,
+  "show_time": {
+    "$date": "2025-08-21T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718ded"
+  },
+  "show_id": 5,
+  "movie_id": 3,
+  "theater_id": 1,
+  "show_time": {
+    "$date": "2025-08-21T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718dee"
+  },
+  "show_id": 2,
+  "movie_id": 1,
+  "theater_id": 2,
+  "show_time": {
+    "$date": "2025-07-25T13:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718def"
+  },
+  "show_id": 1,
+  "movie_id": 1,
+  "theater_id": 1,
+  "show_time": {
+    "$date": "2025-07-25T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718df0"
+  },
+  "show_id": 4,
+  "movie_id": 2,
+  "theater_id": 3,
+  "show_time": {
+    "$date": "2025-07-04T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718df1"
+  },
+  "show_id": 3,
+  "movie_id": 2,
+  "theater_id": 2,
+  "show_time": {
+    "$date": "2025-07-04T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68aea6c19ce1ced806718df2"
+  },
+  "show_id": 18,
+  "movie_id": 8,
+  "theater_id": 3,
+  "show_time": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  }
+}]

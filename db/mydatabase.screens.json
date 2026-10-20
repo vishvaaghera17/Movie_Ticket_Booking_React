@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "68b1ec9bf3c40cbd90718dcc"
+  },
+  "screen_id": 1,
+  "name": "Royal",
+  "location": "Itadva, Navsari",
+  "screen_img": "IMG/royal.jpg",
+  "movies": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "68b1ec9bf3c40cbd90718dcd"
+  },
+  "screen_id": 2,
+  "name": "Mukta",
+  "location": "Main Road, Navsari",
+  "screen_img": "IMG/mukta.jpg",
+  "movies": [
+    4,
+    5,
+    6
+  ]
+},
+{
+  "_id": {
+    "$oid": "68b1ec9bf3c40cbd90718dce"
+  },
+  "screen_id": 3,
+  "name": "Rajhans",
+  "location": "Station Road, Navsari",
+  "screen_img": "IMG/rajhansh.jpg",
+  "movies": [
+    7,
+    8,
+    1
+  ]
+}]
